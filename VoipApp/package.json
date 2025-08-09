@@ -1,0 +1,13 @@
+{
+  "name": "VoipApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react-native": "0.80.2",
+    "react-native-webrtc": "^124.0.6",
+    "@react-native-community/cli": "latest"
+  }
+}
